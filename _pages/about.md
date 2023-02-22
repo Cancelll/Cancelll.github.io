@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://cs.uwaterloo.ca/'>University of Waterloo</a>.
 
