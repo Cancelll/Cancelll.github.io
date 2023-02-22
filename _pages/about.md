@@ -9,7 +9,7 @@ profile:
   image: zhenyang-xu.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>zhenyang.xu[-AT-]uwaterloo.ca</p>
+    <p>E-mail: zhenyang.xu[-AT-]uwaterloo.ca</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a Ph.D. candidate in the <a href='https://www.swag.uwaterloo.ca/www/index.html'> SWAG lab</a> at <a href='https://cs.uwaterloo.ca/'> University of Waterloo</a>, supervised by <a href='https://cs.uwaterloo.ca/~cnsun/'>Chengnian Sun</a>. My research interest lies in software testing and debugging.
+I am a Ph.D. candidate in the <a href='https://www.swag.uwaterloo.ca/www/index.html'> Software Analytics Group (SWAG) lab</a> at <a href='https://cs.uwaterloo.ca/'> University of Waterloo</a>, supervised by <a href='https://cs.uwaterloo.ca/~cnsun/'>Chengnian Sun</a>. My research interest lies in software testing and debugging.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
