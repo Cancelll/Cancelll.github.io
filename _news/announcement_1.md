@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-23 04:00:00-0400
+date: 2022-2-25 04:00:00-0400
 inline: true
 ---
 
-A paper was conditionally accepted by OOPSLA'23.
+The paper was accepted by OOPSLA'23.
