@@ -16,8 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+He is currently a Ph.D. candidate in the <a href='https://www.swag.uwaterloo.ca/www/index.html'> Software Analytics Group (SWAG) lab</a> at <a href='https://cs.uwaterloo.ca/'> University of Waterloo</a>, supervised by <a href='https://cs.uwaterloo.ca/~cnsun/'>Chengnian Sun</a>.
 
-I am a Ph.D. candidate in the <a href='https://www.swag.uwaterloo.ca/www/index.html'> Software Analytics Group (SWAG) lab</a> at <a href='https://cs.uwaterloo.ca/'> University of Waterloo</a>, supervised by <a href='https://cs.uwaterloo.ca/~cnsun/'>Chengnian Sun</a>. My research interest lies in software testing and debugging.
+His research interest lies in software testing and debugging (with an emphasis on compilers). The main goal of his research is to improve the correctness of compilers and to facilitate the debugging process for compiler developers.
+
+<!-- I am a Ph.D. candidate in the <a href='https://www.swag.uwaterloo.ca/www/index.html'> Software Analytics Group (SWAG) lab</a> at <a href='https://cs.uwaterloo.ca/'> University of Waterloo</a>, supervised by <a href='https://cs.uwaterloo.ca/~cnsun/'>Chengnian Sun</a>. My research interest lies in software testing and debugging. -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
